@@ -23,9 +23,10 @@ library(gt)
 #| include: false
 #| message: false
 #| warning: false
-
-oldcnnt_users_content <- contentaudit::fetch_users_content(connect_server = server, connect_api_key = api_key)
+#| 
 newcnnt_users_content <- contentaudit::fetch_users_content(connect_server = newcnnctserver, connect_api_key = newcnntapikey)
+oldcnnt_users_content <- contentaudit::fetch_users_content(connect_server = server, connect_api_key = api_key)
+
 
 
 ```
