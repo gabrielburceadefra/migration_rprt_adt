@@ -1,5 +1,5 @@
 ---
-title: "migration_rprt_adt"
+title: "Migration Audition Report"
 ---
 
 ```{r}
@@ -25,6 +25,7 @@ library(gt)
 #| warning: false
 #| 
 newcnnt_users_content <- contentaudit::fetch_users_content(connect_server = newcnnctserver, connect_api_key = newcnntapikey)
+
 oldcnnt_users_content <- contentaudit::fetch_users_content(connect_server = server, connect_api_key = api_key)
 
 
@@ -57,6 +58,8 @@ new_old_migrated_data <- dplyr::full_join(new_vars_data, old_vars_data)
 migration_data_detected <- contentaudit::detect_migration_and_testapps(new_old_migrated_data, threshold = 0.6)
 
 readr::write_csv(migration_data_detected, "data/migration_data_detected.csv")
+
+#readr::write_csv(migration_data_detected, "data/migration_data_detected_copy.csv")
 ```
 
 ```{r, spot-migrated}
