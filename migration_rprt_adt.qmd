@@ -344,7 +344,7 @@ write.csv(migration_table, "data/migration_summary.csv", row.names = FALSE)
 
 ##### Adding the new apps alongside migrated apps
 
-**New apps (under different names) appear to be published** .
+**Apps (under different names) appear to be published**. Thus assuming the new apps might also be migrated but under a totally different name. However, the numbers aren't robust under this scenario, yet approximating is needed to understand the migration situation.
 
 **Total migration percentage:** `r  final_table_new_app$percent_migrated_total[final_table_new_app$app_mode == "GRAND TOTAL"]`% out of `r final_table_new_app$old_count[final_table_new_app$app_mode == "GRAND TOTAL"]`
 
