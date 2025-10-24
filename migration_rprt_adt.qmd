@@ -275,10 +275,6 @@ Therefore different tables with different scenarios that affects the counts are 
 
 ###### Counting migrated apps - but excluding the new apps
 
-**Test apps are excluded** from counts in both Old Connect Server and New Connect Server.
-
-Names of the **migrated apps aren't exactly the same**. Thus, similarity score was used to match names; a score above 50% counts as the same app. Username and app type were also used alongside similarity score to determine whether the app is the same or similar from the one in Old Connect.
-
 **Total migration percentage:** `r final_table$percent_migration[final_table$app_mode == "GRAND TOTAL"]`% out of `r final_table$old_count[final_table$app_mode == "GRAND TOTAL"]`
 
 ```{r}
@@ -349,10 +345,6 @@ write.csv(migration_table, "data/migration_summary.csv", row.names = FALSE)
 ##### Adding the new apps alongside migrated apps
 
 **New apps (under different names) appear to be published** .
-
-**Test apps are excluded** from counts in both Old Connect Server and New Connect Server.
-
-Names of the **migrated apps aren't exactly the same**. Thus, similarity score was used to match names; a score above 50% counts as the same app. Username and app type were also used alongside similarity score to determine whether the app is the same or similar from the one in Old Connect.
 
 **Total migration percentage:** `r  final_table_new_app$percent_migrated_total[final_table_new_app$app_mode == "GRAND TOTAL"]`% out of `r final_table_new_app$old_count[final_table_new_app$app_mode == "GRAND TOTAL"]`
 
