@@ -418,4 +418,6 @@ migration_table_new_app <- gt::gt(final_table_new_app, rowname_col = "app_mode")
 migration_table_new_app
 write.csv(migration_table_new_app, "data/migration_table_new_appy.csv", row.names = FALSE)
 ```
+
+[⬇️ Download Migration Summary (incl New Apps) CSV](data/migration_table_new_appy.csv)
 :::
