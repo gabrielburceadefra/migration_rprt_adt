@@ -1,0 +1,4 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+64de03a3-5998-4104-8164-e093c572532b,eq-chat-app1,eq-chat-app,2025-10-09T09:49:37Z,2025-10-09T11:32:02Z,python-streamlit,viewer,ollie.pumphrey@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,0.3333333333333333,NA,eq-chat-app1,not migrated,NA,FALSE
+9296da94-3b82-40d9-a02f-8398dd72c8a0,eq-chat-app,eq-chat-app,2025-10-07T12:32:57Z,2025-10-08T10:19:28Z,unknown,none,ollie.pumphrey@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,0.5,NA,eq-chat-app,not migrated,NA,FALSE
+c55dca88-a8e2-431b-bfea-dabc746e7b6f,api_test,eq-chat-app,2025-06-06T10:37:05Z,2025-09-14T18:53:05Z,python-streamlit,viewer,ollie.pumphrey@defra.gov.uk,FALSE,Defra,NA,old_server,NA,TRUE,NA,NA,NA,NA,NA,NA

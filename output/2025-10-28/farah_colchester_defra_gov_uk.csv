@@ -1,0 +1,12 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+d439bbf2-1234-4a1a-9a3f-fe237acc8310,scripts,scripts,2025-10-24T09:49:19Z,2025-10-24T09:49:20Z,unknown,none,farah.colchester@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,1,scripts,scripts,migrated,FALSE,FALSE
+2de6808c-62b9-4c7a-9a13-9e942e3542ff,scripts11,Network Mapper,2024-03-07T14:15:17Z,2025-07-24T09:54:28Z,python-shiny,viewer,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+4581f17b-ae9c-431c-9dfc-7f75b56d04d3,scripts5,scripts,2025-05-19T14:20:56Z,2025-05-19T14:31:10Z,python-shiny,none,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+78182448-0dde-464a-82b7-2b890b8ca075,scripts4,scripts,2025-05-19T13:26:41Z,2025-05-19T14:18:22Z,python-shiny,none,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+7dd76ca4-66db-4a23-8ccc-3ac7eefdd5e3,scripts3,scripts,2025-04-11T13:01:49Z,2025-04-11T13:01:49Z,python-shiny,viewer,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+dac7b67f-d3c8-4390-b671-8f4f68c01203,scripts2,scripts,2025-03-20T16:32:11Z,2025-03-20T16:32:11Z,python-dash,none,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+8d6e3e89-7815-41ea-bc46-775344668f9f,scripts1,scripts,2025-01-21T13:55:35Z,2025-01-21T13:55:35Z,python-shiny,none,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+ad9851ec-0a06-4f2c-8335-4e0dcb7ef73b,nmexperiment,NMexperiment,2025-01-21T13:39:34Z,2025-01-21T13:39:35Z,shiny,none,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+6c59ec13-3f44-4c2b-b71a-70fa304de318,borbles,bORbles,2024-12-27T15:11:32Z,2024-12-27T16:20:50Z,shiny,viewer,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+aeb6f77e-2a05-4487-89f6-0293e5254af3,networkmapper1,NetworkMapper,2024-12-04T14:46:23Z,2024-12-04T14:46:23Z,python-shiny,none,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+7029c811-ffbf-4f54-9efc-30205697cf1d,networkmapper,NetworkMapper,2024-12-02T11:20:45Z,2024-12-02T11:54:52Z,python-shiny,none,farah.colchester@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

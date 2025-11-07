@@ -1,0 +1,3 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+3cfa153c-ec53-4500-8e9c-8a8b93f3ccee,dna2nbn_metabarcoding,DNA2NBN_metabarcoding,2025-05-29T15:16:37Z,2025-06-05T15:31:15Z,shiny,viewer,nicholas.dunn@naturalengland.org.uk,FALSE,Natural England,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+776bc1a2-3a6f-425d-829b-822dd964969b,dna2nbn_single_species,DNA2NBN_single_species,2025-05-28T16:02:28Z,2025-06-04T13:56:13Z,shiny,viewer,nicholas.dunn@naturalengland.org.uk,FALSE,Natural England,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

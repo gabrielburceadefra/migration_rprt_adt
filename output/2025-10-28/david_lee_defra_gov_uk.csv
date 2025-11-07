@@ -1,0 +1,5 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+863846b4-9510-4ea4-9eef-6e60c00db311,produce-view,produce-view,2025-10-21T09:45:38Z,2025-10-21T09:45:40Z,rmd-shiny,viewer,david.lee@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,1,produce-view,produce-view,migrated,FALSE,FALSE
+9c579bfb-3282-4a02-ab38-4f5203a54aba,produce-view,produce-view,2025-07-21T13:02:21Z,2025-07-21T13:09:31Z,rmd-shiny,viewer,david.lee@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+3b0882f0-8b2e-4c37-8e51-e8d45f22d3cf,geolytix,Geolytix,2025-05-09T10:56:52Z,2025-05-09T12:32:16Z,rmd-shiny,viewer,david.lee@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+5d31d84b-f4a7-4996-bb64-3ee8f1767a3c,cpi-app,cpi-app,2023-07-17T10:51:45Z,2023-08-30T08:27:35Z,shiny,none,david.lee@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

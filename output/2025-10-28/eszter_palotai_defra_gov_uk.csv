@@ -1,0 +1,2 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+f8b59f56-d487-415e-84c7-7f066c6b8f59,trq-shiny,TRQ-Shiny,2025-02-06T13:57:55Z,2025-02-06T13:57:57Z,shiny,viewer,eszter.palotai@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,6 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+168b77eb-89ac-492c-b5ba-0d240b366e32,ms8_dashboards3,MS8_Dashboards,2024-05-14T16:04:58Z,2025-01-29T11:52:17Z,shiny,none,peter.duddy@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+c9d5bdea-4cc7-446e-80e2-b68feb1095f2,ms8_dashboards2,MS8_Dashboards,2024-05-14T15:59:59Z,2025-01-29T11:28:25Z,shiny,none,peter.duddy@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+5732be0c-1240-47d0-b2a0-7bdd0ab14d68,ms8_dashboards,MS8_Dashboards,2023-12-15T16:51:17Z,2024-08-06T13:11:51Z,shiny,none,peter.duddy@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+db8717cb-0334-4872-9eb1-8086757d0057,csff_dashboard,CSFF_dashboard,2024-03-08T17:32:08Z,2024-03-14T14:19:17Z,shiny,viewer,peter.duddy@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+ac965758-920c-484e-a33f-6a09314e7f52,publishing_test,publishing_test,2023-12-18T18:07:00Z,2023-12-18T18:20:20Z,shiny,none,peter.duddy@defra.gov.uk,FALSE,Defra,NA,old_server,NA,TRUE,NA,NA,NA,NA,NA,NA

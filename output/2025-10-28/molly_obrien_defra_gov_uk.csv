@@ -1,0 +1,5 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+37dd57e5-8992-48a7-a981-96f0f7c674fe,export-pur,Export-PUR,2024-10-22T16:18:27Z,2024-11-18T14:30:10Z,shiny,viewer,molly.obrien@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+b61fd4d2-8032-4c8a-b8ff-354c4c77c1d5,dashrstudio-repo,DASHrstudio-repo,2024-10-16T13:53:18Z,2024-11-15T12:41:21Z,shiny,viewer,molly.obrien@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+cc325900-e636-4360-9ffe-2f7d184e1417,pur-app,PUR-app,2024-10-23T14:44:04Z,2024-10-23T14:44:22Z,shiny,viewer,molly.obrien@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+f144a239-4dfe-40d9-b50c-ccc28ac25432,dashrstudio-repo2,DASHrstudio-repo,2024-10-16T13:54:53Z,2024-10-16T13:55:11Z,unknown,none,molly.obrien@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

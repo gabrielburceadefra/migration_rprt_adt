@@ -1,0 +1,2 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+0a82f3b3-5aed-4aa5-bac8-8cbdcadbb65f,general_code,general_code,2025-09-19T14:29:13Z,2025-09-19T14:29:17Z,shiny,none,roi.martinez@defra.onmicrosoft.com,FALSE,Defra,new_server,NA,NA,FALSE,0.5,NA,general_code,not migrated,NA,FALSE

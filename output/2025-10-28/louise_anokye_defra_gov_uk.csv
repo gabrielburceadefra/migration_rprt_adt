@@ -1,0 +1,11 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+15ca67a3-fda6-462a-9644-6c557aac588c,dashrstudio-repo,DASHrstudio-repo,2025-10-20T11:35:55Z,2025-10-21T14:58:28Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,1,dashrstudio-repo,dashrstudio-repo,migrated,FALSE,FALSE
+dd4a63a2-cb5d-4454-b497-cb87ec870544,codmap,CODmap,2025-10-21T14:17:04Z,2025-10-21T14:18:23Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,0,NA,codmap,new app,NA,FALSE
+eb3d27f8-a05d-4c94-8c91-07b0921bd3e7,psrdatabase,PSRdatabase,2025-10-20T16:13:23Z,2025-10-20T16:13:36Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,1,psrdatabase,psrdatabase,migrated,FALSE,FALSE
+fb56c2eb-91da-45dd-b531-e2bb7c9d1b25,export-pur,Export-PUR,2025-10-20T16:01:29Z,2025-10-20T16:02:04Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,1,export-pur,export-pur,migrated,FALSE,FALSE
+4abe6302-732b-477d-97de-4231d80ccc47,codmap2,CODmap,2025-09-25T15:36:25Z,2025-09-25T15:37:25Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+c4e81375-0955-4360-9537-5028027588fe,export-pur,Export-PUR,2023-11-22T10:51:28Z,2025-09-19T08:43:00Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+d19579a0-f5c8-4f9d-9b73-f59c73eba16b,dashrstudio-repo3,DASHrstudio-repo,2025-06-19T18:38:30Z,2025-09-15T12:48:44Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+ab0d1bb4-a7f8-4ab5-8128-f6139df3b741,psrdatabase,PSRdatabase,2025-01-07T18:30:07Z,2025-03-16T23:13:01Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+84f37a05-d93b-4816-a5e8-83bbd2490340,businessmaps,BusinessMaps,2024-03-19T11:45:31Z,2024-09-10T11:24:13Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+ddcda205-9a90-4c35-b451-a245bd4e990c,businessmaps_1a,BusinessMaps_1a,2024-02-15T14:44:09Z,2024-02-15T14:44:14Z,shiny,viewer,louise.anokye@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

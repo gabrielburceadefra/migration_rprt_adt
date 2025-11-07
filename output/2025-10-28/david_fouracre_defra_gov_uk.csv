@@ -1,0 +1,2 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+70a0794d-d7d8-4d1f-99e7-896ba2715195,drf_mtcars,drf_mtcars: a pinned 32 x 11 data frame,2023-11-15T15:56:56Z,2023-11-15T15:56:56Z,static,none,david.fouracre@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,2 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+8e6ad0c0-846d-49f1-a1af-848ad5004c31,mcda_app,MCDA_app,2024-05-21T13:25:59Z,2024-06-12T14:51:21Z,shiny,none,kate.hutchinson@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

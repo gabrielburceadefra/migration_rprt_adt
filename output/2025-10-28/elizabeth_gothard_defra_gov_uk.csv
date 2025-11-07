@@ -1,0 +1,4 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+4f40233c-d8a4-4765-87ec-8a839e29b458,taps_test_app,taps_test_app,2025-10-21T15:37:53Z,2025-10-21T15:37:54Z,shiny,none,elizabeth.gothard@defra.gov.uk,FALSE,Defra,new_server,NA,NA,TRUE,0.5,NA,taps_test_app,not migrated,NA,TRUE
+24a54d4a-5057-4e3b-9146-f3ccc4fa80a6,ssr_country_of_origin,ssr_country_of_origin,2025-08-21T15:09:16Z,2025-08-21T15:09:37Z,shiny,viewer,elizabeth.gothard@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+b74305ff-0b88-476f-b974-1cea56792cd9,ssr_ports,ssr_ports,2025-08-18T17:16:49Z,2025-08-18T17:29:43Z,shiny,none,elizabeth.gothard@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

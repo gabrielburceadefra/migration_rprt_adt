@@ -1,0 +1,3 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+25a0ef49-46fd-4786-a733-be4f916177be,ne_tncea_rap_cookbook4,NE tNCEA RAP cookbook,2024-06-18T16:19:11Z,2024-12-11T11:36:06Z,rmd-static,viewer,jordan.milner@naturalengland.org.uk,FALSE,Natural England,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+029827ac-78fc-49a6-abe9-038677837bae,ne_tncea_rap_cookbook3,NE tNCEA RAP cookbook,2024-06-18T16:07:12Z,2024-06-18T16:07:15Z,unknown,none,jordan.milner@naturalengland.org.uk,FALSE,Natural England,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,2 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+ecf9db79-0d35-4548-b95b-fac017f067e7,csi-github-training2,csi-github-training2,2023-09-04T11:15:02Z,2023-09-05T08:36:57Z,shiny,viewer,nicole.parr@environment-agency.gov.uk,FALSE,Environment Agency,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA

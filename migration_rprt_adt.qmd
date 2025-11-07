@@ -6,7 +6,7 @@ title: "Migration Audition Report"
 #| include: false
 #| message: false
 #| warning: false
-
+readRenviron("~/.Renviron")
 # Obtain the api keys for each connect
 server = "https://dap-prd2-connect.azure.defra.cloud"
 api_key =Sys.getenv("OLD_CONNECT_API_KEY")
@@ -74,7 +74,11 @@ spot_migrated <- migration_data_detected %>%
     a_nona_account == FALSE
   ) %>%
   dplyr::count()
+
+
 # there are 28 now as 22/10
+#there are 50 as 28/10
+
 ```
 
 ```{r, old_server_ex_a_accounts}
@@ -412,4 +416,31 @@ write.csv(migration_table_new_app, "data/migration_table_new_appy.csv", row.name
 ```
 
 [⬇️ Download Migration Summary (incl New Apps) CSV](data/migration_table_new_appy.csv)
+
+## Top 10 Developers with most of apps
+
+#### Top 10 Developers with most of apps in old connect
+
+```{r}
+#| echo: false 
+#| message: false 
+#| warning: false
+
+library(dplyr) 
+library(knitr)
+library(contentaudit)
+
+old_connect <- connectapi::connect(server = server, api_key = api_key)
+
+# TO DO: refresh this in the background
+
+old_connect_rsc_content <- old_connect %>% connectapi::get_content() 
+# # Remove locked users? 
+old_connect_rsc_users <- old_connect %>% connectapi::get_users(limit = Inf) %>% filter(locked == FALSE) 
+ranking_publishers <- contentaudit::create_dev_ranking(old_connect_rsc_users, old_connect_rsc_content) 
+ranking_publishers_filter <- ranking_publishers %>% dplyr::filter(app_count > 0) %>%
+  dplyr::slice_head(n =10) 
+
+knitr::kable(ranking_publishers_filter)
+```
 :::

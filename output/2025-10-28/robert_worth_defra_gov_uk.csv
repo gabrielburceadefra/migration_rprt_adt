@@ -1,0 +1,14 @@
+guid,name,title,created_time,last_deployed_time,app_mode,app_role,owner_username,a_nona_account,department,new_connect,old_connect,name_words,contains_test,similarity_score,matched_old_name,matched_new_name,migration,contains_test_app_inold,contains_test_app_innew
+fbff440d-46e7-4e2a-ae85-a8eb80b3d0c6,ph_kpi_tracker4,PH_KPI_Tracker,2025-10-27T08:53:33Z,2025-10-27T08:53:43Z,shiny,viewer,robert.worth@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,0.6666666666666666,ph_kpi_tracker3,ph_kpi_tracker4,migrated,FALSE,FALSE
+3a408244-a91b-4a88-9a1e-a9e5676085fc,it_work3,IT_Work,2025-10-27T08:40:06Z,2025-10-27T08:40:11Z,shiny,viewer,robert.worth@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,0.5,NA,it_work3,not migrated,NA,FALSE
+eb202af2-e95e-485f-88e3-6adfe677d15f,it_work,IT_Work,2025-10-27T08:29:51Z,2025-10-27T08:29:51Z,unknown,none,robert.worth@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,0.5,NA,it_work,not migrated,NA,FALSE
+afb7449e-9128-4bec-abf1-e1a37fefe54d,ph_kpi_tracker2,PH_KPI_Tracker,2025-10-27T08:04:43Z,2025-10-27T08:04:43Z,unknown,none,robert.worth@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,0.6666666666666666,ph_kpi_tracker,ph_kpi_tracker2,migrated,FALSE,FALSE
+51f78a9b-ec39-4b89-abd3-a130adbdb16a,ph_kpi_tracker,PH_KPI_Tracker,2025-10-27T08:00:12Z,2025-10-27T08:00:12Z,unknown,none,robert.worth@defra.gov.uk,FALSE,Defra,new_server,NA,NA,FALSE,1,NA,ph_kpi_tracker,not migrated,NA,FALSE
+d7e72857-6f78-47e0-a0a8-2679e2367296,it_work2,IT_Work,2025-10-27T08:32:11Z,2025-10-27T08:32:17Z,shiny,viewer,robert.worth@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+556359c8-a76f-41df-a3e5-d17e8a878a2a,ph_kpi_tracker3,PH_KPI_Tracker,2025-10-27T08:05:51Z,2025-10-27T08:05:51Z,unknown,none,robert.worth@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+c2920ad1-1003-4128-a74f-0fce12949240,phikpi,PHIKPI,2025-07-07T08:02:12Z,2025-07-23T12:26:50Z,shiny,viewer,robert.worth@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+3810cace-8044-4f6b-b41e-f4acf80e8aa4,ph_kpi_tracker,PH_KPI_Tracker,2025-07-07T07:35:12Z,2025-07-07T07:35:15Z,shiny,viewer,robert.worth@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+0bd14a92-32e0-4813-b9c9-56957c8b8f83,phim,PHIM,2025-02-19T13:40:33Z,2025-02-19T14:07:54Z,shiny,viewer,robert.worth@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+7a33dac7-8704-46f5-a6b0-ce8bd62c0d76,phim2,PHIM,2025-02-19T13:47:04Z,2025-02-19T13:47:08Z,shiny,none,robert.worth@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+60c8ccf6-b43f-4bc1-93c8-7ab5a6283e38,parr,PaRR,2023-07-25T07:13:26Z,2024-05-07T13:52:58Z,shiny,viewer,robert.worth@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
+9a7c41a1-3af0-469b-90f8-6f69f5d25acc,parr3,PaRR,2023-07-25T08:07:32Z,2023-07-25T09:52:26Z,shiny,viewer,robert.worth@defra.gov.uk,FALSE,Defra,NA,old_server,NA,FALSE,NA,NA,NA,NA,NA,NA
