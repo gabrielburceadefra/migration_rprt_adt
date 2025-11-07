@@ -465,3 +465,4 @@ ranking_publishers_filter <- ranking_publishers %>% dplyr::filter(app_count > 0)
 knitr::kable(ranking_publishers_filter)
 ```
 :::
+
